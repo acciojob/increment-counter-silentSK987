@@ -1,5 +1,5 @@
 //your JS code here. If required.
-const btn = document.getElementById("btn");
+const btn = document.getElementById("increamentBtn");
 const counter=document.getElementById("counter");
 
 btn.addEventListener("click",(event)=>{
